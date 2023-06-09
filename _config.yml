@@ -26,9 +26,7 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  http://yooyouny.github.com
-    linkedIn: in/samarsault
+    github:  yooyouny
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
@@ -38,7 +36,7 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    email: jhjin2u@gmail.com
 
     # Mastodon instances
     # mastodon:
