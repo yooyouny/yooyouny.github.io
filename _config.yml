@@ -1,6 +1,6 @@
 title: portfolio
-author: yooyouny
-email: jhjin2u@gmail.com
+author: GitHub User
+email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -26,13 +26,15 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
+    #twitter: samarsault
     github:  yooyouny
+    #linkedIn: in/samarsault
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
     #pinterest: jekyll
     #youtube: jekyll
-    #facebook: jekyll
+    #facebook: jekyllS
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
@@ -49,6 +51,7 @@ plainwhite:
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.md
+
 # Build settings
 theme: plainwhite
 
